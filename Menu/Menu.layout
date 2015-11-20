@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="kb_input2.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="63" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="414" topLine="10" />
+		</Cursor>
+		<Folding>
+			<Collapse line="144" />
+			<Collapse line="189" />
+			<Collapse line="329" />
+			<Collapse line="541" />
+			<Collapse line="550" />
+			<Collapse line="572" />
+			<Collapse line="574" />
+			<Collapse line="588" />
+			<Collapse line="593" />
+			<Collapse line="598" />
+			<Collapse line="614" />
+			<Collapse line="621" />
+			<Collapse line="630" />
+			<Collapse line="667" />
+			<Collapse line="674" />
+			<Collapse line="700" />
+			<Collapse line="706" />
+			<Collapse line="753" />
+			<Collapse line="872" />
+			<Collapse line="894" />
+			<Collapse line="937" />
+			<Collapse line="943" />
+			<Collapse line="952" />
+			<Collapse line="959" />
+			<Collapse line="965" />
+			<Collapse line="969" />
+			<Collapse line="1025" />
+			<Collapse line="1029" />
+			<Collapse line="1032" />
+			<Collapse line="1036" />
+			<Collapse line="1042" />
+			<Collapse line="1049" />
+			<Collapse line="1061" />
+			<Collapse line="1070" />
+			<Collapse line="1074" />
+			<Collapse line="1185" />
+			<Collapse line="1192" />
+			<Collapse line="1196" />
+			<Collapse line="1226" />
+			<Collapse line="1238" />
+			<Collapse line="1246" />
+			<Collapse line="1249" />
+			<Collapse line="1278" />
+			<Collapse line="1308" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

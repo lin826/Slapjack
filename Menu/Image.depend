@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1231335102 source:j:\introduction_programming_final\image_main\image\console_draw2.c
+	"console_draw2.h"
+
+1418709396 j:\introduction_programming_final\image_main\image\console_draw2.h
+	<windows.h>
+
+1197485698 source:j:\introduction_programming_final\image_main\image\kb_input2.c
+	"kb_input2.h"
+
+1197486290 j:\introduction_programming_final\image_main\image\kb_input2.h
+	<windows.h>
+
+1419734474 source:j:\introduction_programming_final\image_main\image\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"kb_input2.h"
+
+1231335102 source:j:\introduction_programming_final\image\console_draw2.c
+	"console_draw2.h"
+
+1418709396 j:\introduction_programming_final\image\console_draw2.h
+	<windows.h>
+
+1197485698 source:j:\introduction_programming_final\image\kb_input2.c
+	"kb_input2.h"
+
+1197486290 j:\introduction_programming_final\image\kb_input2.h
+	<windows.h>
+
+1419734474 source:j:\introduction_programming_final\image\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"kb_input2.h"
+
+1231335102 source:c:\users\nthucs\desktop\introduction_programming_final\image\console_draw2.c
+	"console_draw2.h"
+
+1418709396 c:\users\nthucs\desktop\introduction_programming_final\image\console_draw2.h
+	<windows.h>
+
+1197485698 source:c:\users\nthucs\desktop\introduction_programming_final\image\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\nthucs\desktop\introduction_programming_final\image\kb_input2.h
+	<windows.h>
+
+1419759672 source:c:\users\nthucs\desktop\introduction_programming_final\image\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"kb_input2.h"
+
+1231335102 source:k:\introduction_programming_final\image\console_draw2.c
+	"console_draw2.h"
+
+1418709396 k:\introduction_programming_final\image\console_draw2.h
+	<windows.h>
+
+1197485698 source:k:\introduction_programming_final\image\kb_input2.c
+	"kb_input2.h"
+
+1197486290 k:\introduction_programming_final\image\kb_input2.h
+	<windows.h>
+
+1419759674 source:k:\introduction_programming_final\image\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"kb_input2.h"
+

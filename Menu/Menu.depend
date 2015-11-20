@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1358275658 source:c:\users\nthucs\documents\menu\audio.c
+	"audio.h"
+
+1260885116 c:\users\nthucs\documents\menu\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1419736170 source:c:\users\nthucs\documents\menu\console_draw2.c
+	"console_draw2.h"
+
+1231143510 c:\users\nthucs\documents\menu\console_draw2.h
+	<windows.h>
+
+1197485698 source:c:\users\nthucs\documents\menu\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\nthucs\documents\menu\kb_input2.h
+	<windows.h>
+
+1419479308 source:c:\users\nthucs\documents\menu\large_font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+
+1419736512 source:c:\users\nthucs\documents\menu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1231335102 source:j:\2014.12.28 final\menu\console_draw2.c
+	"console_draw2.h"
+
+1418709396 j:\2014.12.28 final\menu\console_draw2.h
+	<windows.h>
+
+1197485698 source:j:\2014.12.28 final\menu\kb_input2.c
+	"kb_input2.h"
+
+1197486290 j:\2014.12.28 final\menu\kb_input2.h
+	<windows.h>
+
+1419769680 source:j:\2014.12.28 final\menu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1260885116 j:\2014.12.28 final\menu\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1419479308 source:j:\2014.12.28 final\menu\large_font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+
+1419318992 source:j:\2014.12.28 final\menu\audio.c
+	"audio.h"
+
+1231335102 source:j:\2014.12.28 final\menu\img\console_draw2.c
+	"console_draw2.h"
+
+1418709396 j:\2014.12.28 final\menu\img\console_draw2.h
+	<windows.h>
+
+1197485698 source:j:\2014.12.28 final\menu\img\kb_input2.c
+	"kb_input2.h"
+
+1197486290 j:\2014.12.28 final\menu\img\kb_input2.h
+	<windows.h>
+
+1419765446 source:j:\2014.12.28 final\menu\img\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"kb_input2.h"
+
+1419765446 j:\2014.12.28 final\menu\img\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"kb_input2.h"
+
+1419318992 source:k:\2014.12.28 final\menu\audio.c
+	"audio.h"
+
+1260885116 k:\2014.12.28 final\menu\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1231335102 source:k:\2014.12.28 final\menu\img\console_draw2.c
+	"console_draw2.h"
+
+1418709396 k:\2014.12.28 final\menu\img\console_draw2.h
+	<windows.h>
+
+1197485698 source:k:\2014.12.28 final\menu\img\kb_input2.c
+	"kb_input2.h"
+
+1197486290 k:\2014.12.28 final\menu\img\kb_input2.h
+	<windows.h>
+
+1419771892 source:k:\2014.12.28 final\menu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1418709396 k:\2014.12.28 final\menu\console_draw2.h
+	<windows.h>
+
+1197486290 k:\2014.12.28 final\menu\kb_input2.h
+	<windows.h>
+
+1419318992 source:f:\2014.12.28 final\menu\audio.c
+	"audio.h"
+
+1260885116 f:\2014.12.28 final\menu\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1419774030 source:f:\2014.12.28 final\menu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1418709396 f:\2014.12.28 final\menu\console_draw2.h
+	<windows.h>
+
+1197486290 f:\2014.12.28 final\menu\kb_input2.h
+	<windows.h>
+
+1419318992 source:e:\2014.12.28 final\menu\audio.c
+	"audio.h"
+
+1260885116 e:\2014.12.28 final\menu\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1231335102 source:e:\2014.12.28 final\menu\console_draw2.c
+	"console_draw2.h"
+
+1418709396 e:\2014.12.28 final\menu\console_draw2.h
+	<windows.h>
+
+1197485698 source:e:\2014.12.28 final\menu\kb_input2.c
+	"kb_input2.h"
+
+1197486290 e:\2014.12.28 final\menu\kb_input2.h
+	<windows.h>
+
+1419765664 source:e:\2014.12.28 final\menu\image.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"kb_input2.h"
+	"audio.h"
+	<time.h>
+
+1419936718 source:e:\2014.12.28 final\menu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+

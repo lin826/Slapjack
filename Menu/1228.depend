@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1419318992 source:c:\users\nthucs\desktop\1228\audio.c
+	"audio.h"
+
+1260885116 c:\users\nthucs\desktop\1228\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1231335102 source:c:\users\nthucs\desktop\1228\console_draw2.c
+	"console_draw2.h"
+
+1418709396 c:\users\nthucs\desktop\1228\console_draw2.h
+	<windows.h>
+
+1419765545 source:c:\users\nthucs\desktop\1228\image.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"kb_input2.h"
+	"audio.h"
+	<time.h>
+
+1197486290 c:\users\nthucs\desktop\1228\kb_input2.h
+	<windows.h>
+
+1197485698 source:c:\users\nthucs\desktop\1228\kb_input2.c
+	"kb_input2.h"
+
